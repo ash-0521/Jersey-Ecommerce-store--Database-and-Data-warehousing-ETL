@@ -1,2 +1,2 @@
 # Jersey-Ecommerce-store--Database-and-Data-warehousing-ETL
-Developed a robust e-Store database/ Datawarehouse for seamless management of jersey orders, customer data, employee info, and inventory. Ensure accurate order recording, real-time inventory updates, and smooth multi-user access using ETL process &amp; OracleSuite
+This project aims to create a robust e-Store database system to manage jersey orders, customer and employee data, and inventory. The goal is efficient order recording, accurate inventory updates, and streamlined customer-employee interactions. The outcome will be an optimized system enhancing order processing, inventory management, and overall customer satisfaction for the online store.
